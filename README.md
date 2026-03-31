@@ -83,7 +83,7 @@ All scripts require only a standard **bash** shell and standard Linux utilities.
 ### Step 1 — Clone the repository
 ```bash
 git clone https://github.com/Moksh071849/OSS_Audit_24BCE10405.git
-cd OSS_Audit_24BCE10405
+cd OSS_AUDIT_24BCE10405
 ```
  
 ### Step 2 — Make scripts executable
